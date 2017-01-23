@@ -8,6 +8,8 @@ FEAST is a simulation toolkit for evaluating natural gas leak detection and repa
 
 Tutorial:
 ---------
+Clicking the "launch/binder" link below will open the FEAST directory on a server that is able to run Python. Once the directory open, select the file "Tutorial.ipynb" to open an interactive Jupyter notebook that illustrates what FEAST can do.
+
 .. image:: http://mybinder.org/badge.svg 
 	:target: http://mybinder.org:/repo/eaogroup/feast
 
