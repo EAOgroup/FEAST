@@ -6,6 +6,10 @@ Introduction:
 -------------
 FEAST is a simulation toolkit for evaluating natural gas leak detection and repair (LDAR) programs. FEAST can be used to estimate natural gas savings and net present value of LDAR programs.
 
+Tutorial:
+---------
+.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/eaogroup/feast
+
 File Structure:
 ---------------
 Python FEAST consists of a directory containing over 30 python module and object files. The file map below illustrates where each file is stored. The map is followed by a short description of the files.
