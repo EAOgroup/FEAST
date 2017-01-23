@@ -4,7 +4,7 @@ FEAST
 
 Introduction:
 -------------
-FEAST is a simulation toolkit for evaluating natural gas leak detection and repair (LDAR) programs. FEAST can be used to estimate natural gas savings and net present value of LDAR programs.
+FEAST is a Fugitive Emissions Abatement Simulation Toolkit for evaluating natural gas leak detection and repair (LDAR) programs. FEAST can be used to estimate natural gas savings and net present value of LDAR programs.
 
 Tutorial:
 ---------
