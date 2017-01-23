@@ -4,7 +4,7 @@ FEAST v2.0
 
 Introduction:
 -------------
-FEAST is a Fugitive Emissions Abatement Simulation Toolkit for evaluating natural gas leak detection and repair (LDAR) programs. FEAST can be used to estimate natural gas savings and net present value of LDAR programs. Version 2.0 is an update of version 1.0 released in 2016. Version 2.0 was been ported from Matlab to Python, a more advanced infrared camera simulation module was added, and several steps were taken to improve the speed and readability of the model's code.
+FEAST is a Fugitive Emissions Abatement Simulation Toolkit for evaluating natural gas leak detection and repair (LDAR) programs. FEAST can be used to estimate natural gas savings and net present value of LDAR programs. Version 2.0 is an update of version 1.0 released in 2016. Version 2.0 was ported from Matlab to Python, a more advanced infrared camera simulation module was added, and several steps were taken to improve the speed and readability of the model's code.
 
 Tutorial:
 ---------
