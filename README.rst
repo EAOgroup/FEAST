@@ -8,7 +8,8 @@ FEAST is a simulation toolkit for evaluating natural gas leak detection and repa
 
 Tutorial:
 ---------
-.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/eaogroup/feast
+.. image:: http://mybinder.org/badge.svg 
+	:target: http://mybinder.org:/repo/eaogroup/feast
 
 File Structure:
 ---------------
