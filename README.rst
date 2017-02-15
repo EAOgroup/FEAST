@@ -13,6 +13,8 @@ Clicking the "launch/binder" link below will open the FEAST directory on a serve
 .. image:: http://mybinder.org/badge.svg 
 	:target: http://mybinder.org:/repo/eaogroup/feast
 
+Note: this tutorial is supported by mybinder.org. Occassionally, the mybinder service is unavailable. In that case the notebook will hang on the mybinder loading screen. You can check the status of mybinder here: http://mybinder.org/status If the service is down, you will have to either check back later or install python and clone the repository to your machine in order to run the tutorial. 
+
 File Structure:
 ---------------
 Python FEAST consists of a directory containing over 30 python module and object files. The file map below illustrates where each file is stored. The map is followed by a short description of the files.
