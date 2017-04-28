@@ -10,7 +10,9 @@ Tutorial:
 ---------
 Clicking link below will open an active Jupyter notebook tutorial using the temporary notebook server system tmpnb. Once the Tutorial loads feel free to edit the notebook and see what FEAST can do (your changes will only be stored for 20 minutes of inactivity).
 
-.. _Tutorial: /104.236.169.8:8000/notebooks/FEAST/Tutorial.ipynb
+Tutorial_
+
+.. _Tutorial: http://104.236.169.8:8000/notebooks/FEAST/Tutorial.ipynb
 
 File Structure:
 ---------------
